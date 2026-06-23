@@ -5,10 +5,7 @@ phase picking in continuous waveform data. The model combines convolutional
 feature extraction, continuous dynamic modeling, and bidirectional state-space
 sequence mixing for efficient waveform representation.
 
-This repository contains the source code used for the manuscript:
 
-> CDSM-Net: Continuous Dynamic State-Space Modeling for Efficient Seismic Event
-> Detection and Phase Picking
 
 ## Repository Contents
 
